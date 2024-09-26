@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        GIT_REPO = 'https://github.com/Govind-M/NewGit-Practice5t'
+        GIT_REPO = 'https://github.com/Govind-M/NewGit-Practice5'
         DESTINATION_FOLDER = '/home/govind/Jenkins_Assignment-1'
     }
 
